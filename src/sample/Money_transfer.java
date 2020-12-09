@@ -7,13 +7,15 @@ public class Money_transfer {
     private double sum;
 
     public boolean check_solvency(Account account){
-
-        return true;
+        return account.amount_on_the_account() >= sum;
     }
 
     public boolean make_a_transfer(Account account){
-
-        return true;
+        if (check_solvency(account)){
+            account.withdraw_money(sum);
+            return true;
+        }
+        return false;
     }
 
     public void execute(){
