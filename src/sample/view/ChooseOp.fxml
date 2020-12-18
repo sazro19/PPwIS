@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.view.InputCard">
+   <children>
+      <Pane layoutX="200.0" layoutY="85.0" prefHeight="200.0" prefWidth="200.0">
+         <children>
+            <VBox alignment="CENTER" layoutX="3.0" prefHeight="200.0" prefWidth="193.0">
+               <children>
+                  <Label alignment="CENTER" contentDisplay="CENTER" text="Выберите операцию" />
+                  <Button id="insertButton" mnemonicParsing="false" text="Просмотр счета" />
+                  <Button id="exitButton" mnemonicParsing="false" prefHeight="17.0" prefWidth="134.0" text="Снятие наличных" />
+                  <Button mnemonicParsing="false" text="Перевод" />
+                  <Button mnemonicParsing="false" text="Оплата услуг мобильной связи" />
+                  <Button mnemonicParsing="false" text="Оплата интернет услуг" />
+                  <Button mnemonicParsing="false" text="Забрать карту" />
+               </children>
+            </VBox>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

@@ -1,5 +1,8 @@
 package sample;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class ATM {
 
     private Bank_card inserted_card;
@@ -10,7 +13,7 @@ public class ATM {
 
     private int tryNumber = 0; // Моя вставка, иначе непонятно, как проверять 4 попытки
 
-    private Operation operation; // ATM и Operation связаны USE, непонятно каким образом
+    private ArrayList<Operation> operationList = new ArrayList<>(); // ATM и Operation связаны USE, непонятно каким образом
 
     public boolean set_lang(String lang){
 
@@ -44,35 +47,8 @@ public class ATM {
     }
 
     public void start_operation(int operation){
-        switch (operation){
-            case 1:{
                 // не указано, кто создает операции
-                this.operation = new Operation();
-                this.operation.setCash_withdrawal(new Cash_Withdrawal());
-
-                break;
-            }
-
-            case 2:{
-
-                break;
-            }
-
-            case 3:{
-
-                break;
-            }
-
-            case 4:{
-
-                break;
-            }
-
-            case 5:{
-
-                break;
-            }
-        }
+                this.operationList.get(operation);
     }
 
     public Bank_card give_out_card(){

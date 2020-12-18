@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sample/ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/ATM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Account_view.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Account_view.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Bank_card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Bank_card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/CardOwner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/CardOwner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Cash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Cash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Cash_Withdrawal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Cash_Withdrawal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Check.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Communloation_fee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Communloation_fee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Money_transfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Money_transfer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Operation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Pick_up_the_card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Pick_up_the_card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/view/InputCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/view/InputPIN.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,16 +84,22 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="OverrideImplement.combined" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/sample/view" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ACER\Desktop\5sem\ППвИС\PPwIS_2\src\sample\view" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -212,18 +207,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="65" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1607534968973" />
-    <state x="479" y="249" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1607530699054">
+    <state x="479" y="249" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1608310657022">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="479" y="249" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1607530699054" />
-    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607443907353">
+    <state x="479" y="249" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1608310657022" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608303323519">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1607443907353" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1607528265201">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1608303323519" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1607633224125">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1607528265201" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607633224125" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1608303594350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1608303594350" />
     <state x="92" y="327" width="670" height="58" key="search.everywhere.popup" timestamp="1607529994053">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

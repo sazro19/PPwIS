@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.view.InputCard">
+   <children>
+      <Pane layoutX="200.0" layoutY="85.0" prefHeight="200.0" prefWidth="200.0">
+         <children>
+            <VBox alignment="CENTER" layoutX="3.0" prefHeight="200.0" prefWidth="193.0">
+               <children>
+                  <Label alignment="CENTER" prefHeight="38.0" prefWidth="189.0" text="Остаток на счете" />
+                  <Label text="500 BYN" />
+                  <Button id="exitButton" mnemonicParsing="false" prefHeight="17.0" prefWidth="134.0" text="Продолжить" />
+               </children>
+            </VBox>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>
