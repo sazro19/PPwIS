@@ -3,9 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class-diagram.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/class-diagram.drawio" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sample/ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/ATM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/view/InputCard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/view/InputPIN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Communloation_fee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Communication_fee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/отчет.docx" beforeDir="false" afterPath="$PROJECT_DIR$/отчет.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,6 +213,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="479" y="249" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1608310657022" />
+    <state x="381" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1608387146269">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="381" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1608387146269" />
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608303323519">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -219,10 +225,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607633224125" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1608303594350">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1608385309073">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1608303594350" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1608385309073" />
     <state x="92" y="327" width="670" height="58" key="search.everywhere.popup" timestamp="1607529994053">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

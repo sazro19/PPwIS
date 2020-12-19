@@ -1,6 +1,6 @@
 package sample;
 
-public class Communloation_fee {
+public class Communication_fee {
 
     private String key;
 

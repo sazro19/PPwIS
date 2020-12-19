@@ -10,7 +10,7 @@ public class Operation {
 
     private Cash_Withdrawal cash_withdrawal;
 
-    private Communloation_fee communloation_fee;
+    private Communication_fee communloation_fee;
 
     private Money_transfer money_transfer;
 
@@ -26,11 +26,11 @@ public class Operation {
         this.cash_withdrawal = cash_withdrawal;
     }
 
-    public Communloation_fee getCommunloation_fee() {
+    public Communication_fee getCommunloation_fee() {
         return communloation_fee;
     }
 
-    public void setCommunloation_fee(Communloation_fee communloation_fee) {
+    public void setCommunloation_fee(Communication_fee communloation_fee) {
         this.communloation_fee = communloation_fee;
     }
 

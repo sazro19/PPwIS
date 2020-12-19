@@ -21,7 +21,7 @@ public class ATM {
     }
 
     public boolean accept_card(){
-        if (!check_PIN(1111)){
+        if (!check_PIN(1111) || tryNumber > 4){
             tryNumber += 1;
             return false;
         }
@@ -47,8 +47,8 @@ public class ATM {
     }
 
     public void start_operation(int operation){
-                // не указано, кто создает операции
-                this.operationList.get(operation);
+        // не указано, кто создает операции
+        this.operationList.get(operation);
     }
 
     public Bank_card give_out_card(){
