@@ -2,11 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/ant.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-diagram.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/class-diagram.drawio" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/ATM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Communloation_fee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Communication_fee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/classes/ATM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/classes/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Account_view.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/classes/Account_view.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Bank_card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/classes/Bank_card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/CardOwner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/classes/CardOwner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Cash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/classes/Cash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Cash_Withdrawal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/classes/Cash_Withdrawal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/classes/Check.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Communication_fee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/classes/Communication_fee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/classes/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Money_transfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/classes/Money_transfer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/classes/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Pick_up_the_card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/classes/Pick_up_the_card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/classes/Window.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/classes/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/view/CheckCash.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/view/CheckCash.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/view/ChooseOp.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/view/ChooseOp.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/view/DeleteInfo.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/view/DeleteInfo.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/view/GetCard.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/view/GetCard.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/view/InputCard.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/view/InputCard.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/view/InputPIN.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/view/InputPIN.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/view/Internet.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/view/Internet.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/view/Mobile.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/view/Mobile.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/view/Transfer.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/view/Transfer.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/view/TransferSuc.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/view/TransferSuc.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/view/getCash.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/view/getCash.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/view/getCashButton.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/view/getCashButton.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/отчет.docx" beforeDir="false" afterPath="$PROJECT_DIR$/отчет.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,8 +126,14 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ACER\Desktop\5sem\ППвИС\PPwIS_2\src\sample\view" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sample.view" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ACER\Desktop\5sem\ППвИС\PPwIS_2\src\sample\classes" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -128,6 +158,20 @@
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.classes.Main" />
+      <module name="changed2LabPivas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="sample.Main" />
@@ -182,6 +226,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -221,21 +270,37 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1608303323519" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1607633224125">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1609945200350">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607633224125" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1608385309073">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609945200350" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1609946911654">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1608385309073" />
-    <state x="92" y="327" width="670" height="58" key="search.everywhere.popup" timestamp="1607529994053">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609946911654" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1609946911654">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="92" y="327" width="670" height="58" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1607529994053" />
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1609946911654" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1609946911654">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1609946911654" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1609946911654">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609946911654" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1609943142649">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1609943142649" />
+    <state x="65" y="66" key="new project wizard" timestamp="1609943481534">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="66" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1609943481534" />
+    <state x="92" y="327" width="672" height="160" key="search.everywhere.popup" timestamp="1609944963271">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="327" width="672" height="160" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1609944963271" />
   </component>
 </project>
